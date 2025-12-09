@@ -31,7 +31,7 @@ Whether it’s the **old NIC format** (e.g., `921234567V`) or the **new NIC form
 ## 🔗 Repository & Live Demo
 
 - **GitHub**: https://github.com/Aum-Ahsan/NIC-Converter.git  
-- **Live Demo**: https://lnkd.in/evrJgvke
+- **Live Demo In Linkedin**:https://www.linkedin.com/posts/mohamed-ahsan-85baa5269_srilankatech-webdevelopment-javascript-activity-7394408276664422401-sPb_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEHV2IcBaaHyrzYXSwuqCSUsEOWvTaSK13M
 
 ---
 
